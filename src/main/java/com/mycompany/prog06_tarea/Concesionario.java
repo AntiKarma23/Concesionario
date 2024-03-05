@@ -22,7 +22,7 @@ public class Concesionario {
      * facilita hacer pruebas o actualizar a otros valores en el futuro
      */
     private int numVehiculos = 0;
-    final int MAX_VEHICULO = 50;
+    final int MAX_VEHICULO = 60;
 
     // Inicializar array para almacenar un maximo de 50 vehiculos para los que ya reservamos memoria
     public Vehiculo[] listaVehiculos = new Vehiculo[MAX_VEHICULO];
