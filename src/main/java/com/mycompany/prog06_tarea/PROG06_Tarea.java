@@ -47,7 +47,7 @@ public class PROG06_Tarea {
         miConcesionario.insertarVehiculos(vehiculo2);
          */
         
-        System.out.println("Bienvenido  al Gestor del Concesionario RacerMotor");
+        System.out.println("Bienvenido  al Gestor del Concesionario RacerMotorrrrr");
         System.out.println("_|-|_  _|-|_  _|-|_  _|-|_  _|-|_ ");
         System.out.println("|o-o-| |o-o-|  |o-o-|  |o-o-|  |o-o-|");
         System.out.println("");
