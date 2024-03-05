@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  * Clase donde se crea el array que albergará un maximo de 50 vehículos y se
- * implementan 4 métodos
+ * implementan 4 métodos.
  *
  * @author Oscar Racero
  */
